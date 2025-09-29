@@ -1,0 +1,5 @@
+streamlit
+pandas
+pillow
+fpdf2
+streamlit-aggrid
